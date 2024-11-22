@@ -1,0 +1,7 @@
+CompileFlags:
+  Add: [
+    -I, C:\Users\syk\scoop\apps\mingw\current\lib\gcc\x86_64-w64-mingw32\14.2.0\include,
+    -I, C:\Users\syk\scoop\apps\mingw\current\lib\gcc\x86_64-w64-mingw32\14.2.0\include-fixed,
+    -I, C:\Users\syk\scoop\apps\mingw\current\x86_64-w64-mingw32\include,
+  ]
+
